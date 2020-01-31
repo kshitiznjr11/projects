@@ -1,0 +1,9 @@
+C:\Users\kshit\source\repos\calc\calc\bin\Debug\calc.exe.config
+C:\Users\kshit\source\repos\calc\calc\bin\Debug\calc.exe
+C:\Users\kshit\source\repos\calc\calc\bin\Debug\calc.pdb
+C:\Users\kshit\source\repos\calc\calc\obj\Debug\calc.csprojAssemblyReference.cache
+C:\Users\kshit\source\repos\calc\calc\obj\Debug\calc.Properties.Resources.resources
+C:\Users\kshit\source\repos\calc\calc\obj\Debug\calc.csproj.GenerateResource.cache
+C:\Users\kshit\source\repos\calc\calc\obj\Debug\calc.exe
+C:\Users\kshit\source\repos\calc\calc\obj\Debug\calc.pdb
+C:\Users\kshit\source\repos\calc\calc\obj\Debug\calc.Calculator.resources
